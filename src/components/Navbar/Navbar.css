@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-color: rgb(184, 121, 255);
+    padding: 10px 0px;
+    margin-bottom: 20px;
+}
+.navbar a {
+    text-decoration: none;
+    border: 1px solid #da79dd;
+    background-color: #fff;
+    display: inline-block;
+    padding: 4px 20px;
+    border-radius: 4px;
+}
